@@ -8,7 +8,7 @@
 	<script language="JScript">
 	<![CDATA[
 		var shell = new ActiveXObject("WScript.Shell");
-		shell.run("cmd.exe",0,true)
+		shell.run("cmd.exe",1,true)
 		]]></script>
 </registration>
 </scriptlet>
